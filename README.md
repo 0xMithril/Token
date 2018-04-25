@@ -1,2 +1,2 @@
 # Token
-0xMithril Token Quarry Contract
+0xMithril Token Contract
